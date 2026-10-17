@@ -1,60 +1,54 @@
 <div align="center">
 
-# Bonjour, je suis Ismail Lahlou 👋
+# Ismail Lahlou
 
 ### Élève ingénieur · Data Science & Intelligence Artificielle
 
-Je transforme des données et des idées en applications utiles, du modèle au produit.
+Des projets qui relient les données, les applications et les besoins métier.
 
-**Stage PFE de 6 mois · Disponible à partir de mars 2027**
+**Stage PFE · 6 mois à partir de février 2027**
 
-[Portfolio](https://portfolio-ismail-lahlou.alvarezvcarlosr44274.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/lahlou-ismail-114b48342/) · [Me contacter](mailto:lahlouismail.ing2026@gmail.com)
+[Portfolio et CV](https://portfolio-ismail-lahlou.alvarezvcarlosr44274.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/lahlou-ismail-114b48342/) · [Me contacter](mailto:lahlouismail.ing2026@gmail.com)
 
 </div>
 
----
-
 ## À propos
 
-Élève ingénieur en Génie Informatique à l'EMSI, spécialisé en **Data Science & IA**, je combine analyse de données, machine learning et développement web.
+Je suis élève ingénieur en Génie Informatique à l'EMSI, spécialisé en **Data Science & IA**. Mes projets portent sur l'IA appliquée au commerce, les plateformes web et la préparation de pipelines de machine learning.
 
-- **IA appliquée :** chatbots, recherche sémantique, recommandations et agents IA.
-- **Développement :** applications Django, interfaces JavaScript et intégration via API.
-- **Data :** préparation, exploration, visualisation et évaluation de modèles.
+J'aime travailler sur un parcours complet : comprendre le besoin, organiser les données, développer une première solution et examiner ses résultats. Je continue à renforcer mes bases à travers les cours, les projets et les stages.
 
-## Mon environnement technique
+## Projets à découvrir
 
-| Domaine | Outils et méthodes |
+| Projet | Ce que vous pouvez y voir | Technologies |
+| --- | --- | --- |
+| [NUTRIFIT · Ecommerce-AI](https://github.com/lahlouabdeslam6-rgb/Ecommerce-AI) | Catalogue, commandes, recherche sémantique, agents IA et supervision | FastAPI, React, MongoDB, Qdrant, Ollama |
+| [Cosmetiques AI](https://github.com/lahlouabdeslam6-rgb/CosmetiquesAI) | Boutique, back-office et workflows IA adaptés aux cosmétiques | FastAPI, React, Redis, n8n |
+| [CodeMentor AI](https://github.com/lahlouabdeslam6-rgb/CodeMentorAI_design-new) | Plateforme pédagogique, tests de niveau, exercices et progression | Django, MongoDB, SQLite, JavaScript |
+| [The Masterz Gym](https://github.com/lahlouabdeslam6-rgb/the-masterz-gym) | Site et modules de gestion d'une salle de sport | Next.js, TypeScript, FastAPI, PostgreSQL |
+| [Rahiq Arij](https://github.com/lahlouabdeslam6-rgb/rahiq-arij-backup) | Boutique de miel bilingue, commandes et administration | JavaScript, Cloudflare Workers, D1, R2 |
+| [Pipeline MLOps](https://github.com/lahlouabdeslam6-rgb/mlops-tp3-dvc) | Versionnement des données synthétiques et suivi d'expériences ML | Python, scikit-learn, DVC, MLflow |
+
+Chaque dépôt présente son périmètre, son architecture, les étapes de lancement et ses limites. Les projets sont des réalisations académiques ou de développement en évolution.
+
+## Outils pratiqués dans mes projets
+
+| Domaine | Outils |
 | --- | --- |
-| Programmation | Python, SQL, JavaScript · notions de Java |
-| Data & BI | Pandas, NumPy, Matplotlib, Power BI, ETL |
-| Machine Learning | Scikit-learn, classification supervisée, recommandations, évaluation |
-| IA & NLP | Chatbots, agents IA, recherche sémantique, prompt engineering · fondamentaux de RAG et LangChain |
-| Développement web | Django, HTML5, CSS3, Bootstrap · bases d'API REST |
-| Bases de données | MongoDB, SQLite, SQL / NoSQL, MongoEngine |
-| Collaboration | Git, GitHub, UML, gestion de projet |
+| Data et machine learning | Python, SQL, pandas, NumPy, scikit-learn, préparation et évaluation |
+| IA appliquée | Recherche sémantique, recommandations, agents, Ollama, Qdrant |
+| Développement | Django, FastAPI, JavaScript, React, TypeScript |
+| Données et infrastructure | MongoDB, SQLite, PostgreSQL, Redis, Docker |
+| Organisation et reproductibilité | Git, GitHub, API REST, DVC, MLflow |
 
-## Projet à découvrir
+## Parcours
 
-### [CodeMentor AI](https://github.com/lahlouabdeslam6-rgb/CodeMentorAI_design-new)
-
-Une plateforme d'apprentissage du développement informatique avec parcours par matière, tuteur, exercices, examens et certificats. Elle propose des espaces étudiant, professeur et administrateur.
-
-**Python · Django · MongoDB · SQLite · JavaScript · Chart.js**
-
-[Consulter le code](https://github.com/lahlouabdeslam6-rgb/CodeMentorAI_design-new) · [Découvrir tous mes projets](https://portfolio-ismail-lahlou.alvarezvcarlosr44274.chatgpt.site/#projets)
-
-Mes autres réalisations portent sur la détection d'intrusions IoT, la recommandation agricole, l'e-commerce avec IA et des applications web pour des clients. Leur présentation est disponible dans mon portfolio ; certains codes sont privés.
-
-## Expériences
-
-- **Digitium · 2026** — Développement d'une plateforme e-commerce multi-vendeurs avec recherche intelligente, recommandations et assistant conversationnel.
-- **Atlantis Events · 2025** — Application de gestion et réservation de salles avec Django, SQLite et calendrier interactif.
+- **EMSI · 2023–2027** — Cycle ingénieur en Génie Informatique, spécialisation Data Science & IA.
+- **Digitium · 2026** — Stage de développement e-commerce et intégration de fonctionnalités IA.
+- **Atlantis Events · 2025** — Stage autour d'une application de gestion et de réservation de salles.
 
 ## Échangeons
 
-Je recherche un **stage PFE de 6 mois à partir de mars 2027**, en Data Science, Machine Learning ou Intelligence Artificielle.
+Je recherche un **stage PFE de 6 mois à partir de février 2027**, en Data Science, IA appliquée, développement back-end ou automatisation, notamment dans l'e-commerce.
 
-📩 **[lahlouismail.ing2026@gmail.com](mailto:lahlouismail.ing2026@gmail.com)**
-
-🌐 **[Mon portfolio et mon CV](https://portfolio-ismail-lahlou.alvarezvcarlosr44274.chatgpt.site/)**
+📩 [lahlouismail.ing2026@gmail.com](mailto:lahlouismail.ing2026@gmail.com) · 🌐 [Portfolio](https://portfolio-ismail-lahlou.alvarezvcarlosr44274.chatgpt.site/)
