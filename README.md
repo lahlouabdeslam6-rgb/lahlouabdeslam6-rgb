@@ -8,7 +8,7 @@ Des projets qui relient les données, les applications et les besoins métier.
 
 **Stage PFE · 6 mois à partir de février 2027**
 
-[Portfolio et CV].(https://ismail-lahlou.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/lahlou-ismail-114b48342/) · [Me contacter](mailto:lahlouismail.ing2026@gmail.com)
+[Portfolio et CV](https://ismail-lahlou.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/lahlou-ismail-114b48342/) · [Me contacter](mailto:lahlouismail.ing2026@gmail.com)
 
 </div>
 
