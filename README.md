@@ -51,4 +51,4 @@ Chaque dépôt présente son périmètre, son architecture, les étapes de lance
 
 Je recherche un **stage PFE de 6 mois à partir de février 2027**, en Data Science, IA appliquée, développement back-end ou automatisation, notamment dans l'e-commerce.
 
-📩 [lahlouismail.ing2026@gmail.com](mailto:lahlouismail.ing2026@gmail.com) · 🌐 [Portfolio](https://portfolio-ismail-lahlou.alvarezvcarlosr44274.chatgpt.site/)
+📩 [lahlouismail.ing2026@gmail.com](mailto:lahlouismail.ing2026@gmail.com) · 🌐 [Portfolio](https://ismail-lahlou.netlify.app/)
