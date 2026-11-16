@@ -22,7 +22,7 @@ J'aime travailler sur un parcours complet : comprendre le besoin, organiser les 
 
 | Projet | Ce que vous pouvez y voir | Technologies |
 | --- | --- | --- |
-| [Réunions Studio](https://github.com/lahlouabdeslam6-rgb/reunions-studio) | Transcription audio locale, historique des décisions et actions vérifiables par extrait | Python, Faster Whisper, Node.js, SQLite, Ollama |
+| [Réunions Studio](https://github.com/lahlouabdeslam6-rgb/reunions-studio) | Salle audio par invitation et compte rendu automatique après la réunion | WebRTC, Faster Whisper, Node.js, SQLite, Ollama |
 | [NUTRIFIT · Ecommerce-AI](https://github.com/lahlouabdeslam6-rgb/Ecommerce-AI) | Catalogue, commandes, recherche sémantique, agents IA et supervision | FastAPI, React, MongoDB, Qdrant, Ollama |
 | [Cosmetiques AI](https://github.com/lahlouabdeslam6-rgb/CosmetiquesAI) | Boutique, back-office et workflows IA adaptés aux cosmétiques | FastAPI, React, Redis, n8n |
 | [CodeMentor AI](https://github.com/lahlouabdeslam6-rgb/CodeMentorAI_design-new) | Plateforme pédagogique, tests de niveau, exercices et progression | Django, MongoDB, SQLite, JavaScript |
